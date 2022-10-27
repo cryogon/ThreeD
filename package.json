@@ -1,0 +1,14 @@
+{
+  "name":"threed",
+  "version": "0.0.1",
+  "type":"module",
+  "scripts": {
+    "dev":"vite"
+  },
+  "dependencies": {
+    "three": "^0.145.0"
+  },
+  "devDependencies": {
+    "vite": "^3.1.8"
+  }
+}
