@@ -1,0 +1,1 @@
+import { wordCount } from "./main";
